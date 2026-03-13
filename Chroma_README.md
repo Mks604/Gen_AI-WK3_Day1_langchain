@@ -132,4 +132,3 @@ Muthukumar
 AI / ML Enthusiast
 
 
-If you want, I can also show you 5 GitHub tricks that make your README look 10x more professional (progress bars, GIF demo, collapsible sections, badges, diagrams).
